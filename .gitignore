@@ -1,0 +1,9 @@
+state/
+golden-set/
+voice-lessons.md
+*.log
+*.err.log
+*.raw.txt
+__pycache__/
+*.pyc
+.DS_Store
